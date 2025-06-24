@@ -1,0 +1,27 @@
+---
+title: "About Me"
+format: html
+---
+
+# About Me
+
+I’m Dr. Marcus Immonen Hagley, a Postdoctoral researcher at Department of Demography at University of Vienna.
+
+My research focuses on general demographic changes in the population. I've worked on a wide arrange of topics from the socioeconomic consequences of kin death (disertation), fertility (on-going), kinship structure and change(on-going), and population changes in voting behaviour. 
+
+## Research Interests
+
+- Demographic change
+- Fertility
+- Kinship
+
+## Education
+
+- PhD in Political and Social Science, European University Institute
+- MSc in Demography, Stockholm University
+- BSc in Advertisment and PR, Stockholm University
+
+## Contact
+
+Email: marcus.immonen.hagley@gmail.com  
+GitHub: [github.com/MarcusHagley](https://github.com/MarcusHagley)  

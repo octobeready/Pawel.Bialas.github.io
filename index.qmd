@@ -1,0 +1,12 @@
+---
+title: "Welcome"
+format: html
+---
+
+# Welcome to My Academic Website
+
+I'm a researcher in Demography, interested in Population dynamics, fertility and kinship.
+
+You can find my [CV](#), [publications](#), and other work on this site.
+
+![PAA 2025](images/0c0666be-b22f-47d5-988a-253cfa2bbf21.png)
